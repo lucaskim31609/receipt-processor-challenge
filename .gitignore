@@ -20,6 +20,16 @@
 # Go workspace file
 go.work
 go.work.sum
+<<<<<<< HEAD
+=======
+
+# env file
+.env
+
+# Go workspace directory structure that should be ignored
+# bin/
+# pkg/
+>>>>>>> fd7d514 (add to .gitignore)
 
 # env file
 .env
